@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "number one",
+    "image": "./images/one.jpeg"
+    ,
+    "clicked":false
+  },
+  {
+    "id": 2,
+    "name": "number two",
+    "image":"./images/two.jpeg"
+    ,
+    "clicked":false
+  },
+  {
+    "id": 3,
+    "name": "number three",
+    "image": "./images/three.jpeg"
+    ,
+    "clicked":false
+  },
+  {
+    "id": 4,
+    "name": "number four",
+    "image":"./images/four.jpeg"
+    ,
+    "clicked":false
+  },{
+    "id": 5,
+    "name": "number five",
+    "image": "./images/five.jpeg"
+    ,
+    "clicked":false
+  },
+  {
+    "id": 6,
+    "name": "number six",
+    "image":"./images/six.jpeg"
+    ,
+    "clicked":false
+  },{
+    "id": 7,
+    "name": "number seven",
+    "image": "./images/seven.jpeg"
+    ,
+    "clicked":false
+  },
+  {
+    "id": 8,
+    "name": "number eight",
+    "image":"./images/eight.jpeg"
+    ,
+    "clicked":false
+  },
+  {
+    "id": 9,
+    "name": "number nine",
+    "image": "./images/nine.jpeg",
+    "clicked":false
+  },
+  {
+    "id": 10,
+    "name": "number ten",
+    "image":"./images/ten.jpeg",
+    "clicked":false
+  }
+]

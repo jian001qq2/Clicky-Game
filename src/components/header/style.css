@@ -1,0 +1,28 @@
+.navbar{
+  position: fixed;
+  background: #000;
+  color: yellow;
+  line-height: 30px;
+  padding: 10px;
+  overflow: hidden;
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.notes {
+  position: relative;
+  display: inline-block;
+}
+
+.scoreDisplay {
+  position: relative;
+  float: right;
+}
+
+.title {
+  position: relative;
+  float: left;
+}
